@@ -20,15 +20,16 @@
 .interest{
     grid-area: interest;
     width: 75%;
-    min-height: 17vh;
+    min-height: 15vh;
     padding: 20px;
     margin: 0 auto;
+    margin-top: 25px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     background: #F14B4B15;
-    border: 1px solid #F14B4B;
+    border: 3px solid #14234bad;
     border-radius: 50px;
     color: #F14B4B;
     text-align: center;
